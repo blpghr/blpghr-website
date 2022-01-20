@@ -1,0 +1,6 @@
+.navigation-inner {
+    top: 4.6rem !important;
+}
+.navigation.scrolled .navigation-inner{
+    top: 0 !important;
+}

@@ -19,6 +19,8 @@ import icon2 from '../../assets/images/icons/icon-5.png';
 import icon3 from '../../assets/images/icons/icon-6.png';
 import icon4 from '../../assets/images/icons/icon-7.png';
 
+import "../../assets/css/hero-slider.css";
+
 SwiperCore.use([Pagination, Controller]);
 
 const HeroSlider1 = () => {
