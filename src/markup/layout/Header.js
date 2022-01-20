@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
-
+import '../../assets/css/header.css'
 
 // importing logo
 import logo from '../../assets/images/logo.png';
