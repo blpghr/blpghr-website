@@ -9,7 +9,8 @@ import PageHeader from '../components/PageHeader';
 // images
 import header_image from '../../assets/images/page-header-img.jpg';
 import intro_bg from '../../assets/images/intro-bg-1.jpg';
-import "../../assets/css/body.css"
+import "../../assets/css/body.css";
+import "../../assets/css/about.css";
 const About = () => {
 
     return (
@@ -35,7 +36,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="col-md-6">
-                            <div className="image intro-bg">
+                            <div className="image intro-bg text-center">
                                 <img src={intro_bg} alt="intro-bg" />
                             </div>
                         </div>

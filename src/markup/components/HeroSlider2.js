@@ -38,7 +38,7 @@ const HeroSlider2 = () => {
                                 <div className="col-lg-5">
                                     <div className="hero-2-content">
                                         <h3>
-                                            Your business deserves access to the same level of high quality Human Resource services as Fortune 500 companies.
+                                        Businesses of all sides are threatened by unprecedented employment law risks. It is our mission to mitigate these hazards through our comprehensive HR and Compliance Services.
                                         </h3>
                                         <div className="button-group">
                                             <p>
