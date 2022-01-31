@@ -5,3 +5,9 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.service-title{
+    font-weight: 600;
+}
+.service-feature-list > div{
+    margin-top:1rem !important;
+}
