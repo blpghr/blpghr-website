@@ -11,3 +11,7 @@
 .service-feature-list > div{
     margin-top:1rem !important;
 }
+.service-details{
+    font-size: 2rem;
+    margin-left: 2rem;
+}

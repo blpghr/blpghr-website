@@ -55,7 +55,7 @@ const Service = () => {
 
                                                     </li>
                                                     <li>
-                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you?
+                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you
                                                     </li>
                                                 </ul>
                                             </div>
@@ -88,7 +88,7 @@ const Service = () => {
 
                                                     </li>
                                                     <li>
-                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you?
+                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you
                                                     </li>
                                                 </ul>
                                             </div>
@@ -120,7 +120,7 @@ const Service = () => {
 
                                                     </li>
                                                     <li>
-                                                        Inquire about our competitive pricing and<br />whether these packages are good for you?
+                                                        Inquire about our competitive pricing and<br />whether these packages are good for you
                                                     </li>
                                                 </ul>
                                             </div>
@@ -153,7 +153,7 @@ const Service = () => {
 
                                                     </li>
                                                     <li>
-                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you?
+                                                        Inquire about our competitive pricing and<br /> whether these packages are good for you
                                                     </li>
 
                                                 </ul>

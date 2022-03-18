@@ -16,6 +16,8 @@ const Footer = () => {
                                 <h6 className="txt-sm c-white f-w-500 txt-upper">contact</h6>
                                 <p className="c-white  ln-ht-3">T: 801-913-8424</p>
                                 <p className="c-white  ln-ht-3">F: 801-595-0976</p>
+                                <p className="c-white  ln-ht-3">Leah Jacobson</p>
+                                <p className="c-white  ln-ht-3">E: ljacobson@blpghr.com</p>
 
                             </div>
 
@@ -58,7 +60,7 @@ const Footer = () => {
                     </div>
                     <div className="row mt-10" >
                         <div className="col-lg-12">
-                            <h6 className="copyright txt-sm c-white ">&copy; 2022 BLPG-HR</h6>
+                            <h6 className="txt-sm c-white mt-10">&copy; 2022 BLPG-HR</h6>
                         </div>
                     </div>
                 </div>
