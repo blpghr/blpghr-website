@@ -6,6 +6,8 @@ import header_image from '../../assets/images/page-header-img.jpg';
 // components
 import PageHeader from '../components/PageHeader';
 
+import serviceImage from '../../assets/images/services.png';
+
 const Service = () => {
     return (
         <>
@@ -20,8 +22,9 @@ const Service = () => {
             <div className="service">
                 <div className="service-wrapper">
                     <div className="container">
-                        <div className="row service-feature-list gx-5">
-                            <div className="col-lg-12">
+                        <div className="container-service-div">
+                        <img src={serviceImage} alt='icon' className="container-service-div-image"/>
+                            {/* <div className="col-lg-12">
                                 <div className="service-feature-single">
                                     <p className="large c-grey">
                                         <span className='service-title'>Risk Management: </span>
@@ -131,7 +134,7 @@ const Service = () => {
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                             {/* <div class="col-lg-12">
                                 <div class="service-feature-single">
                                     <p class="large c-grey"><span className='service-title'>Americans with Disabilities Act (ADA): </span>This civil rights law was enacted in 1990 (amended in 2008), and prohibits discrimination against individuals with disabilities. ADA ensures equal opportunities for people with disabilities in areas of public accommodations, employment, transportation, and government services. For more background on the law, and common mistakes employers make, BLPG HR can help advise and council.</p>

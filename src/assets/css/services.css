@@ -15,3 +15,11 @@
     font-size: 2rem;
     margin-left: 2rem;
 }
+.container-service-div{
+    width: 100%;
+    text-align: center;
+}
+.container-service-div-image{
+    width: 100%;
+    max-width: 800px;
+}
