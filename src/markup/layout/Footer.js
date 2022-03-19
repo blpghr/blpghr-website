@@ -17,7 +17,7 @@ const Footer = () => {
                                 <p className="c-white  ln-ht-3">T: 801-913-8424</p>
                                 <p className="c-white  ln-ht-3">F: 801-595-0976</p>
                                 <p className="c-white  ln-ht-3">Leah Jacobson</p>
-                                <p className="c-white  ln-ht-3">E: ljacobson@blpghr.com</p>
+                                <p className="c-white  ln-ht-3">E: <a href="mailto:ljacobson@blpghr.com"> ljacobson@blpghr.com</a></p>
 
                             </div>
 
