@@ -4,3 +4,8 @@
 .navigation.scrolled .navigation-inner{
     top: 0 !important;
 }
+
+.client-login{
+    font-weight: 600;
+    color: #0259a5 !important;
+}
