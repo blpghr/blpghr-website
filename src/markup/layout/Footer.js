@@ -26,7 +26,7 @@ const Footer = () => {
                         <div className="col-lg-4">
                             <div className="footer-content">
                                 <h6 className="txt-sm c-white  f-w-500 txt-upper">location</h6>
-                                <p className="c-white  ln-ht-3">200 East South Temple Suite 190,
+                                <p className="c-white  ln-ht-3">200 East South Temple Suite 193
                                     <br />Salt Lake City, UT 84111</p>
                             </div>
                         </div>
